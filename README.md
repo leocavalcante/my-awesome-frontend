@@ -1,5 +1,5 @@
 # My Awesome Front-end List
-Just one like per motivation.
+Just one link per motivation.
 One problem, one way to solve it.
 
 ## what you need?
