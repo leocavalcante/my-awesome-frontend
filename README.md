@@ -12,3 +12,5 @@ One problem, one way to solve it.
 - [Brazilian states as option tags](https://gist.github.com/leocavalcante/d008fff194dcaf909b3c)
 - [CSS arrows](http://www.cssarrowplease.com/)
 - [CSS gradients](http://www.colorzilla.com/gradient-editor/)
+
+*I'm open to discuss alternatives. Just file an issue.*
