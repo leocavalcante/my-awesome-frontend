@@ -6,7 +6,8 @@ One problem, one way to solve it.
 
 - [Slideshow / Carousel](http://kenwheeler.github.io/slick/)
 - [Form validation](http://parsleyjs.org/)
-- [Date & Time](http://momentjs.com/)
+- [Date & time manipulation](http://momentjs.com/)
+- [Date & time picker](http://eonasdan.github.io/bootstrap-datetimepicker/)
 - [Input masking](http://digitalbush.com/projects/masked-input-plugin/)
 - [clearfix](http://nicolasgallagher.com/micro-clearfix-hack/)
 - [Brazilian states as option tags](https://gist.github.com/leocavalcante/d008fff194dcaf909b3c)
