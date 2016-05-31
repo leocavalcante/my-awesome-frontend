@@ -14,6 +14,7 @@ One problem, one way to solve it.
   * [Custom select box](https://select2.github.io/)
   * [Brazilian states as option tags](https://gist.github.com/leocavalcante/d008fff194dcaf909b3c)
   * [Brazilian postal codes API](https://viacep.com.br/)
+  * [Range slider](http://refreshless.com/nouislider/)
 * CSS
   * [clearfix](http://nicolasgallagher.com/micro-clearfix-hack/)
   * [CSS arrows](http://www.cssarrowplease.com/)
