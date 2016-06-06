@@ -17,6 +17,7 @@ One problem, one way to solve it.
 * UI
   * [Range slider](http://refreshless.com/nouislider/)
   * [Knob](http://anthonyterrien.com/knob/)
+  * [Copy to clipboard](https://clipboardjs.com/)
 * CSS
   * [clearfix](http://nicolasgallagher.com/micro-clearfix-hack/)
   * [CSS arrows](http://www.cssarrowplease.com/)
