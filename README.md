@@ -8,6 +8,7 @@ One problem, one way to solve it.
   * [Validation](http://parsleyjs.org/)
   * [Input masking](http://digitalbush.com/projects/masked-input-plugin/) & [Money (currency)](http://plentz.github.io/jquery-maskmoney/)
   * [Custom select box](https://select2.github.io/)
+  * [File upload](http://fineuploader.com/)
   * [Brazilian states as option tags](https://gist.github.com/leocavalcante/d008fff194dcaf909b3c)
   * [Brazilian postal codes API](https://viacep.com.br/)
 * UI
