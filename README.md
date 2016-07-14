@@ -16,6 +16,7 @@ One problem, one way to solve it.
   * [Range slider](http://refreshless.com/nouislider/)
   * [Knob](http://anthonyterrien.com/knob/)
   * [Copy to clipboard](https://clipboardjs.com/)
+  * [Modal](http://izimodal.marcelodolce.com/)
 * Date & Time
   * [Manipulation](http://momentjs.com/)
   * [Picker](http://eonasdan.github.io/bootstrap-datetimepicker/)
