@@ -11,8 +11,9 @@ One problem, one way to solve it.
   * [File upload](http://fineuploader.com/)
   * [Brazilian states as option tags](https://gist.github.com/leocavalcante/d008fff194dcaf909b3c)
   * [Brazilian postal codes API](https://viacep.com.br/)
-* UI
+* UI/UX
   * [Slideshow / Carousel](http://kenwheeler.github.io/slick/)
+  * [Autocomplete](http://twitter.github.io/typeahead.js/)
   * [Range slider](http://refreshless.com/nouislider/)
   * [Knob](http://anthonyterrien.com/knob/)
   * [Copy to clipboard](https://clipboardjs.com/)
