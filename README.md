@@ -9,8 +9,8 @@ One problem, one way to solve it.
   * [Input masking](http://nosir.github.io/cleave.js/)
   * [Custom select box](https://select2.github.io/)
   * [File upload](http://fineuploader.com/)
-  * [Brazilian states as option tags](https://gist.github.com/leocavalcante/d008fff194dcaf909b3c)
-  * [Brazilian postal codes API](https://viacep.com.br/)
+  * [BR states as option tags](https://gist.github.com/leocavalcante/d008fff194dcaf909b3c)
+  * [BR postal code API](https://github.com/filipedeschamps/cep-promise)
 * UI/UX
   * [Slideshow / Carousel](http://kenwheeler.github.io/slick/)
   * [Autocomplete](http://twitter.github.io/typeahead.js/)
