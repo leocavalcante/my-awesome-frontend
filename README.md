@@ -26,5 +26,8 @@ One problem, one way to solve it.
   * [CSS arrows](http://www.cssarrowplease.com/)
   * [CSS gradients](http://www.colorzilla.com/gradient-editor/)
   * [Loaders / Spinners](http://projects.lukehaas.me/css-loaders/) 
+* Animations
+  * [Animate on Scroll](https://github.com/michalsnik/aos)
+
 
 *I'm open to discuss alternatives. Just file an issue.*
