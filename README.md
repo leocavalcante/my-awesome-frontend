@@ -28,6 +28,7 @@ One problem, one way to solve it.
   * [Loaders / Spinners](http://projects.lukehaas.me/css-loaders/) *projects.lukehaas.me/css-loaders*
 * Animations
   * [Animate on Scroll](https://github.com/michalsnik/aos) *github.com/michalsnik/aos*
+  * [Hover Effects](http://ianlunn.github.io/Hover/) *ianlunn.github.io/Hover*
 * Optimization
   * [Image compression](https://kraken.io/) *kraken.io*
 
