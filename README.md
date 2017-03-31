@@ -29,6 +29,7 @@ One problem, one way to solve it.
 * Animations
   * [Animate on Scroll](https://github.com/michalsnik/aos) *github.com/michalsnik/aos*
   * [Hover Effects](http://ianlunn.github.io/Hover/) *ianlunn.github.io/Hover*
+  * [Engine](http://anime-js.com/) *anime-js.com*
 * Optimization
   * [Image compression](https://kraken.io/) *kraken.io*
 
