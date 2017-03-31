@@ -17,7 +17,8 @@ One problem, one way to solve it.
   * [Range slider](http://refreshless.com/nouislider/) *refreshless.com/nouislider*
   * [Knob](http://anthonyterrien.com/knob/) *anthonyterrien.com/knob*
   * [Copy to clipboard](https://clipboardjs.com/) *clipboardjs.com*
-  * [Modal](http://izimodal.marcelodolce.com/) *izimodal.marcelodolce.com*
+  * [Modal / Alert](http://izimodal.marcelodolce.com/) *izimodal.marcelodolce.com*
+  * [Toast / Notification](http://izitoast.marcelodolce.com/) *izitoast.marcelodolce.com*
 * Date & Time
   * [Manipulation](http://momentjs.com/) *momentjs.com*
   * [Picker](http://eonasdan.github.io/bootstrap-datetimepicker/) *eonasdan.github.io/bootstrap-datetimepicker*
